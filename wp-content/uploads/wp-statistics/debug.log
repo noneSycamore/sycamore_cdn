@@ -1,0 +1,12 @@
+
+2021-09-09 02:32:53: Duplicate entry '2021-09-10' for key 'unique_date'
+2021-09-28 02:45:40: Duplicate entry '2021-09-29' for key 'unique_date'
+2021-09-30 03:12:43: Duplicate entry '2021-10-01' for key 'unique_date'
+2021-10-02 03:11:19: Duplicate entry '2021-10-03' for key 'unique_date'
+2021-10-03 02:56:15: Duplicate entry '2021-10-04' for key 'unique_date'
+2021-10-04 02:30:29: Duplicate entry '2021-10-05' for key 'unique_date'
+2021-10-17 04:41:22: {"code":"download_geoip","type":"country","message":"cURL error 28: Operation timed out after 60000 milliseconds with 1604775 out of 3096653 bytes received"}
+2021-10-17 04:41:32: {"code":"download_geoip","type":"city","message":"cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received"}
+2021-10-17 04:43:34: {"code":"download_geoip","type":"country","message":"cURL error 28: Operation timed out after 10001 milliseconds with 0 out of 0 bytes received"}
+2021-10-17 04:44:34: {"code":"download_geoip","type":"city","message":"cURL error 28: Operation timed out after 60000 milliseconds with 0 bytes received"}
+2021-10-17 04:44:39: {"code":"download_geoip","type":"country","message":"cURL error 28: Operation timed out after 60000 milliseconds with 1834152 out of 3096653 bytes received"}
