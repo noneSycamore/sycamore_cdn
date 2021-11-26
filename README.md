@@ -1,2 +1,2 @@
 # whitzard_cdn
-Just a cdn repository for www.whitzard.top
+Just a cdn repository for www.sycamore.top
